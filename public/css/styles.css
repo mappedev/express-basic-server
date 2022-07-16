@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.about__span {
+  display: block;
+}
+
+.about__img {
+  margin: 8px 0;
+}
